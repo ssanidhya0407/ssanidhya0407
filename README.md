@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ssanidhya0407&label=Profile%20views&color=0e75b6&style=flat" alt="ssanidhya0407" /> </p>
 
-- 🔭 I’m currently working on [ThriveUp](https://github.com/ssanidhya0407/ThriveUp-AppConnect)
+- 🔭 I’m currently working on [ThriveUp](https://github.com/ssanidhya0407/ThriveUp-AppConnect) and [HabitCrew](https://github.com/ssanidhya0407/HabitCrew)
 
 - 🌱 I’m currently learning **DSA, Web Dev, DevOps**
 
