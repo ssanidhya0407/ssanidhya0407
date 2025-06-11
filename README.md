@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **ssanidhya0407@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1JWzUkt4hzEbAEupPemsA495QCKKsyGBy/view?usp=sharing](https://drive.google.com/file/d/1JWzUkt4hzEbAEupPemsA495QCKKsyGBy/view?usp=sharing)
+- 📄 Checkout my Resume at [link to the Resume](https://drive.google.com/file/d/1JWzUkt4hzEbAEupPemsA495QCKKsyGBy/view?usp=sharing)
 
 - ⚡ Fun fact **I think I survive on Coffee and Code!**
 
