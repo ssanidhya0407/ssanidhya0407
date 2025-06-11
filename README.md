@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **Swift, Python**
 
-- 📫 Connect with me via [Email](**ssanidhya0407@gmail.com**)
+- 📫 Connect with me via [Email](mailto:ssanidhya0407@gmail.com)
 
 - 📄 Checkout my Resume at [link to the Resume](https://drive.google.com/file/d/1JWzUkt4hzEbAEupPemsA495QCKKsyGBy/view?usp=sharing)
 
