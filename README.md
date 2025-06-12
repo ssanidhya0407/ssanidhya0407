@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sanidhya Singh</h1>
-<h3 align="center">A passionate iOS developer from India</h3>
+<h3 align="center">iOS Dev, FullStack, WebDev, AI-ML</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ssanidhya0407&label=Profile%20views&color=0e75b6&style=flat" alt="ssanidhya0407" /> </p>
 
