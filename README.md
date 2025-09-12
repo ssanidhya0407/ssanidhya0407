@@ -17,7 +17,7 @@
 
 - 📫 Connect with me via [Email](mailto:ssanidhya0407@gmail.com)
 
-- 📄 Checkout my [Resume](https://drive.google.com/file/d/1JWzUkt4hzEbAEupPemsA495QCKKsyGBy/view?usp=sharing)
+- 📄 Checkout my [Resume](https://drive.google.com/file/d/1YwbdQLxD1vvJe0VWC1xgznzy8WZcH0XC/view?usp=drivesdk)
 
 - ⚡ Fun fact **I think I survive on Coffee and Code!**
 
