@@ -8,7 +8,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/ssanidhya0407)
 [![LeetCode](https://img.shields.io/badge/LeetCode-Solve-orange?style=flat&logo=leetcode)](https://leetcode.com/ssanidhya0407)
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail)](mailto:ssanidhya0407@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Check-Out-red?style=flat)](https://sanidhyasingh.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Go-blue)](https://sanidhyasingh.vercel.app)
 
 </div>
 
