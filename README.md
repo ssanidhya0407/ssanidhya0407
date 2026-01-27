@@ -32,40 +32,226 @@ I'm a passionate developer who thrives on building impactful applications that s
 
 ### 🆕 Latest Projects
 
-| Project | Description |
-|---------|-------------|
-| 🚀 **[Career Forge AI](https://github.com/ssanidhya0407/career-forge-ai)** | AI-Powered Career Assistant - Intelligent career guidance platform leveraging AI. `TypeScript` `AI` |
-| ⚙️ **[Minimal Workflow Engine](https://github.com/ssanidhya0407/Minimal-Workflow-Engine)** | Lightweight Workflow Automation - Python-based task automation engine. `Python` `Workflow` |
-| 📊 **[API Dashboard](https://github.com/ssanidhya0407/API-Dashboard)** | Next-Gen Observability - 3D Network Visualization for API monitoring. `3D Graphics` `MongoDB` |
-| 🏢 **[OrganiZThis](https://github.com/ssanidhya0407/OrganiZThis)** | Organization Management System - Full-stack platform with FastAPI. `FastAPI` `MongoDB` |
+<table>
+<tr>
+<td width="50%">
+
+#### 🚀 [Career Forge AI](https://github.com/ssanidhya0407/career-forge-ai)
+**AI-Powered Career Assistant**
+
+Intelligent career guidance platform leveraging AI to help users navigate their professional journey.
+
+`TypeScript` `AI` `Career Tech`
+
+</td>
+<td width="50%">
+
+#### ⚙️ [Minimal Workflow Engine](https://github.com/ssanidhya0407/Minimal-Workflow-Engine)
+**Lightweight Workflow Automation**
+
+Python-based minimal workflow engine for task automation and process orchestration.
+
+`Python` `Workflow` `Automation`
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+#### 📊 [API Dashboard](https://github.com/ssanidhya0407/API-Dashboard)
+**Next-Gen Observability Dashboard**
+
+3D Network Visualization and Traffic Simulation for API monitoring and analytics.
+
+`3D Graphics` `MongoDB Atlas` `API Gateway`
+
+</td>
+<td width="50%">
+
+#### 🏢 [OrganiZThis](https://github.com/ssanidhya0407/OrganiZThis)
+**Organization Management System**
+
+Full-stack organization management platform built with FastAPI and MongoDB.
+
+`FastAPI` `MongoDB Atlas` `Vercel`
+
+</td>
+</tr>
+</table>
 
 ### 📱 iOS Applications
 
-| Project | Description |
-|---------|-------------|
-| 🎓 **[ThriveUp](https://github.com/ssanidhya0407/ThriveUp)** | Campus Pulse - Networking app built with Swift, UIKit, and Firebase. `Swift` `iOS` `Firebase` |
-| 🎤 **[Moment](https://github.com/ssanidhya0407/Moment)** | AI Voice Journal - Capture thoughts with AI-powered insights. `Swift` `iOS` `AI` |
-| 🎯 **[HabitCrew](https://github.com/ssanidhya0407/HabitCrew)** | Build Habits Together - Social habit tracking app. `iOS` `Health` |
-| 💊 **[HealthSync](https://github.com/ssanidhya0407/HealthSync)** | Stay in Sync with Your Health - Comprehensive wellness tracker. `iOS` `Healthcare` |
-| 🎥 **[VideoFilter.ios](https://github.com/ssanidhya0407/videofilter.ios)** | Real-time Video Filters - Core Image and Metal powered. `iOS` `Video` `Metal` |
-| 🏥 **[SRM Health App](https://github.com/ssanidhya0407/SRMHealthApp)** | University Healthcare Platform - Appointment scheduling system. `iOS` `Healthcare` |
+<table>
+<tr>
+<td width="50%">
+
+#### 🎓 [ThriveUp](https://github.com/ssanidhya0407/ThriveUp)
+**Campus Pulse at Your Fingertips**
+
+A comprehensive campus networking app built with Swift, UIKit, and Firebase. Connect with classmates, join events, and stay updated.
+
+`Swift` `iOS` `Firebase` `UIKit`
+
+</td>
+<td width="50%">
+
+#### 🎤 [Moment](https://github.com/ssanidhya0407/Moment)
+**AI Voice Journal**
+
+Capture your thoughts through voice with AI-powered insights and organization.
+
+`Swift` `iOS` `AI` `Voice Recognition`
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+#### 🎯 [HabitCrew](https://github.com/ssanidhya0407/HabitCrew)
+**Build Habits Together**
+
+Social habit tracking app that makes building positive habits fun and collaborative.
+
+`iOS` `Health` `Habit Tracker`
+
+</td>
+<td width="50%">
+
+#### 💊 [HealthSync](https://github.com/ssanidhya0407/HealthSync)
+**Stay in Sync with Your Health**
+
+Comprehensive health tracking application to manage your wellness journey.
+
+`iOS` `Healthcare` `Swift`
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+#### 🎥 [VideoFilter.ios](https://github.com/ssanidhya0407/videofilter.ios)
+**Real-time Video Filters**
+
+iOS app with powerful video filtering capabilities using Core Image and Metal.
+
+`iOS` `Video Processing` `Metal`
+
+</td>
+<td width="50%">
+
+#### 🏥 [SRM Health App](https://github.com/ssanidhya0407/SRMHealthApp)
+**University Healthcare Platform**
+
+Health management system for SRM University students with appointment scheduling.
+
+`iOS` `Healthcare` `University`
+
+</td>
+</tr>
+</table>
 
 ### 🌐 Web & Full-Stack
 
-| Project | Description |
-|---------|-------------|
-| 🤖 **[tayyari.ai](https://github.com/ssanidhya0407/tayyari.ai)** | Learning Reimagined - AI-powered personalized education chatbot. `TypeScript` `AI` `EdTech` |
-| 📰 **[News-RAG-LLM](https://github.com/ssanidhya0407/News-RAG-LLM)** | News via LLM - RAG-powered intelligent news aggregation. `Python` `LLM` `RAG` |
-| 🏟️ **[spaces.fanpit](https://github.com/ssanidhya0407/spaces.fanpit)** | Fan Community Platform - Create and manage fan spaces. `TypeScript` `Web App` |
-| 🎓 **[Student Portal](https://github.com/ssanidhya0407/student-portal)** | University Hostel Management - Comprehensive student services. `JavaScript` `Education` |
-| 💼 **[Portfolio](https://github.com/ssanidhya0407/Portfolio)** | Personal Portfolio - Modern, interactive showcase. `React` `Vite` `Three.js` |
+<table>
+<tr>
+<td width="50%">
+
+#### 🤖 [tayyari.ai](https://github.com/ssanidhya0407/tayyari.ai)
+**Learning Reimagined via Chatbot**
+
+AI-powered learning platform that personalizes education through intelligent conversations.
+
+`TypeScript` `AI` `Chatbot` `EdTech`
+
+</td>
+<td width="50%">
+
+#### 📰 [News-RAG-LLM](https://github.com/ssanidhya0407/News-RAG-LLM)
+**News via LLM**
+
+Intelligent news aggregation using RAG (Retrieval-Augmented Generation) and LLMs.
+
+`Python` `LLM` `RAG` `Streamlit`
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+#### 🏟️ [spaces.fanpit](https://github.com/ssanidhya0407/spaces.fanpit)
+**Fan Community Platform**
+
+Web application for creating and managing fan spaces and communities.
+
+`TypeScript` `Web App` `Community`
+
+</td>
+<td width="50%">
+
+#### 🎓 [Student Portal](https://github.com/ssanidhya0407/student-portal)
+**University Hostel Management**
+
+Comprehensive student portal for hostel management and university services.
+
+`JavaScript` `Web App` `Education`
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+#### 💼 [Portfolio](https://github.com/ssanidhya0407/Portfolio)
+**Personal Portfolio Website**
+
+Modern, interactive portfolio showcasing my work and skills with stunning visuals.
+
+`React` `Vite` `Three.js` `Framer Motion`
+
+</td>
+<td width="50%">
+
+#### 💰 [Savings App](https://github.com/ssanidhya0407/SAVINGS_PYTHON)
+**Personal Finance Tracker**
+
+Python application for managing and tracking bank account details and savings.
+
+`Python` `Finance` `CLI`
+
+</td>
+</tr>
+</table>
 
 ### 🤖 AI/ML Projects
 
-| Project | Description |
-|---------|-------------|
-| 🐛 **[Pest Detection Model](https://github.com/ssanidhya0407/pest-detection-model-cnn)** | CNN-based Agricultural Solution - Deep learning for pest classification. `Python` `CNN` `CV` |
-| 🚀 **[Career Forge AI](https://github.com/ssanidhya0407/career-forge-ai)** | AI Career Guidance - Personalized career recommendations. `TypeScript` `AI` `ML` |
+<table>
+<tr>
+<td width="50%">
+
+#### 🐛 [Pest Detection Model](https://github.com/ssanidhya0407/pest-detection-model-cnn)
+**CNN-based Agricultural Solution**
+
+Deep learning model for detecting and classifying agricultural pests using computer vision.
+
+`Python` `CNN` `Computer Vision` `Agriculture`
+
+</td>
+<td width="50%">
+
+#### 🚀 [Career Forge AI](https://github.com/ssanidhya0407/career-forge-ai)
+**AI Career Guidance**
+
+Leveraging AI to provide personalized career recommendations and guidance.
+
+`TypeScript` `AI` `Machine Learning`
+
+</td>
+</tr>
+</table>
 
 ---
 
