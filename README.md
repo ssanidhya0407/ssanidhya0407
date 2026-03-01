@@ -20,7 +20,6 @@ I'm a passionate developer who thrives on building impactful applications that s
 
 - 🎯 **Currently Building:** [Career Forge AI](https://github.com/ssanidhya0407/career-forge-ai) - AI-powered career assistant
 - 📱 **iOS Passion Project:** [ThriveUp](https://github.com/ssanidhya0407/ThriveUp) - Campus networking at your fingertips
-- 🤝 **Collaborating On:** [Evently](https://github.com/Meghana1708/Evently) - Event management platform
 - 🌱 **Learning:** Data Structures & Algorithms, Advanced Web Development, DevOps
 - ⚡ **Fun Fact:** I survive on coffee and code!
 
