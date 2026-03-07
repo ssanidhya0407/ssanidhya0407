@@ -18,7 +18,7 @@
 
 I'm a passionate developer who thrives on building impactful applications that solve real-world problems. From crafting native iOS apps to developing full-stack web solutions and experimenting with AI/ML models, I love turning ideas into reality.
 
-- 🎯 **Currently Building:** [Career Forge AI](https://github.com/ssanidhya0407/career-forge-ai) - AI-powered career assistant
+- 🎯 **Currently Building:** [InterviewFlow](https://github.com/ssanidhya0407/career-forge-ai) - AI-powered career assistant
 - 📱 **iOS Passion Project:** [ThriveUp](https://github.com/ssanidhya0407/ThriveUp) - Campus networking at your fingertips
 - 🌱 **Learning:** Data Structures & Algorithms, Advanced Web Development, DevOps
 - ⚡ **Fun Fact:** I survive on coffee and code!
@@ -35,7 +35,7 @@ I'm a passionate developer who thrives on building impactful applications that s
 <tr>
 <td width="50%">
 
-#### 🚀 [Career Forge AI](https://github.com/ssanidhya0407/career-forge-ai)
+#### 🚀 [InterviewFlow](https://github.com/ssanidhya0407/interviewflow)
 **AI-Powered Career Assistant**
 
 Intelligent career guidance platform leveraging AI to help users navigate their professional journey.
@@ -241,7 +241,7 @@ Deep learning model for detecting and classifying agricultural pests using compu
 </td>
 <td width="50%">
 
-#### 🚀 [Career Forge AI](https://github.com/ssanidhya0407/career-forge-ai)
+#### 🚀 [InterviewFlow](https://github.com/ssanidhya0407/interviewflow)
 **AI Career Guidance**
 
 Leveraging AI to provide personalized career recommendations and guidance.
